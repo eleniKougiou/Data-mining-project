@@ -1,5 +1,5 @@
 # Data Mining Project
-## AUEB | Data Mining | 2019 - 2020
+## AUEB | Data Mining from Large Databases and the Web | Semester 7 | 2019 - 2020
 
 The purpose of the project is to create a programming model, which will be able to predict how 
 many bicycles will be rented based on statistical data of previous years. More specifically, 
