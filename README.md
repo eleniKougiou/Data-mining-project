@@ -11,4 +11,4 @@ Before creating the model, there is a data processing, such as renaming name col
 type of variables, dropping unnecessary columns and using one-hot encoding technique.
 
 The selected model is a combination of neural networks, MLPRegressor and MLPClassifier, with the 
-help of a VotingRegressor. Finding the optimal parameters for the above models helped the GridSearchCV.
+help of a VotingRegressor. GridSearchCV helped to find the optimal parameters for the above models.
